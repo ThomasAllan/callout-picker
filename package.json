@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "callout-picker",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "This plugin will allow the user to select which type of callout to be inserted",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
